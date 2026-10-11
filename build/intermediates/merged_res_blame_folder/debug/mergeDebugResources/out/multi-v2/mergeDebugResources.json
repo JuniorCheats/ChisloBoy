@@ -1,0 +1,115 @@
+{
+    "logs": [
+        {
+            "outputFile": "ru.study.mathpractice.app-debug-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Public\\Documents\\AndroidProjects\\MathPractice\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,11,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,4,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,482,-1",
+                        "endColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,39,-1",
+                        "endOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,517,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,139,186,234,281,333,382,429,475,515",
+                        "endColumns": "44,38,46,47,46,51,48,46,45,39,45",
+                        "endOffsets": "95,134,181,229,276,328,377,424,470,510,556"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Public\\Documents\\AndroidProjects\\MathPractice\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "32",
+                        "startColumns": "4",
+                        "startOffsets": "1717",
+                        "endLines": "38",
+                        "endColumns": "12",
+                        "endOffsets": "2135"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Public\\Documents\\AndroidProjects\\MathPractice\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "561,613,665,711,761,831,889,952,1013,1090,1150,1219,1287,1349,1396,1452,1523,1596,1654",
+                        "endColumns": "51,51,45,49,69,57,62,60,76,59,68,67,61,46,55,70,72,57,62",
+                        "endOffsets": "608,660,706,756,826,884,947,1008,1085,1145,1214,1282,1344,1391,1447,1518,1591,1649,1712"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Артем\\.gradle\\daemon\\8.9\\ru.study.mathpractice.app-debug-4:\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Public\\Documents\\AndroidProjects\\MathPractice\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "2,4,5,6,9,7,8,3,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,140,179,223,361,268,312,100,403",
+                        "endColumns": "44,38,43,44,41,43,48,39,39",
+                        "endOffsets": "95,174,218,263,398,307,356,135,438"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,139,183,228,270,314,363,403",
+                        "endColumns": "44,38,43,44,41,43,48,39,39",
+                        "endOffsets": "95,134,178,223,265,309,358,398,438"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Public\\Documents\\AndroidProjects\\MathPractice\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "473"
+                    },
+                    "to": {
+                        "startLines": "24",
+                        "startColumns": "4",
+                        "startOffsets": "1217",
+                        "endLines": "30",
+                        "endColumns": "12",
+                        "endOffsets": "1635"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Public\\Documents\\AndroidProjects\\MathPractice\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "12,4,2,5,10,8,7,9,6,13,14,3,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "661,177,55,228,529,398,325,459,272,726,776,102,589",
+                        "endColumns": "64,50,46,43,59,60,72,69,52,49,52,74,71",
+                        "endOffsets": "721,223,97,267,584,454,393,524,320,771,824,172,656"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14,15,16,17,18,19,20,21,22,23",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "443,508,559,606,650,710,771,844,914,967,1017,1070,1145",
+                        "endColumns": "64,50,46,43,59,60,72,69,52,49,52,74,71",
+                        "endOffsets": "503,554,601,645,705,766,839,909,962,1012,1065,1140,1212"
+                    }
+                }
+            ]
+        }
+    ]
+}

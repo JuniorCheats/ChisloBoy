@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ЧислоБой</string>
+    <string name="subtitle">Решай примеры и улучшай результат</string>
+    <string name="example_placeholder">Нажми СТАРТ</string>
+    <string name="answer_hint">Введи ответ</string>
+    <string name="start_button">СТАРТ</string>
+    <string name="check_button">ПРОВЕРКА</string>
+    <string name="press_start_hint">Начни тренировку</string>
+    <string name="enter_answer_hint">Введи ответ и нажми «ПРОВЕРКА»</string>
+    <string name="empty_answer_error">Введите ответ</string>
+    <string name="invalid_answer_error">Введите целое число</string>
+    <string name="correct_result">Правильно! Отличная работа</string>
+    <string name="wrong_result">Неверно. Правильный ответ: %1$d</string>
+    <string name="statistics_title">Статистика</string>
+    <string name="correct_stat">Правильных: %1$d</string>
+    <string name="wrong_stat">Неправильных: %1$d</string>
+    <string name="correct_stat_initial">Правильных: 0</string>
+    <string name="wrong_stat_initial">Неправильных: 0</string>
+    <string name="accuracy_title">Точность</string>
+    <string name="percent_initial" formatted="false">0.00%</string>
+</resources>

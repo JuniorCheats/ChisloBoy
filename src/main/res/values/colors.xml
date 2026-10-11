@@ -1,0 +1,15 @@
+<resources>
+    <color name="screen_background">#F3F6FC</color>
+    <color name="title_color">#24324A</color>
+    <color name="secondary_text">#6E7A90</color>
+    <color name="example_text">#1E293B</color>
+    <color name="start_button">#5267D8</color>
+    <color name="check_button">#16A085</color>
+    <color name="correct_color">#18864B</color>
+    <color name="wrong_color">#C43D4B</color>
+
+    <!-- Совместимость со старой темой проекта MathPractice -->
+    <color name="blue">#5267D8</color>
+    <color name="background">#F3F6FC</color>
+    <color name="white">#FFFFFF</color>
+</resources>

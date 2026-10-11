@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#F3F6FC</color>
+    <color name="blue">#5267D8</color>
+    <color name="check_button">#16A085</color>
+    <color name="correct_color">#18864B</color>
+    <color name="example_text">#1E293B</color>
+    <color name="screen_background">#F3F6FC</color>
+    <color name="secondary_text">#6E7A90</color>
+    <color name="start_button">#5267D8</color>
+    <color name="title_color">#24324A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="wrong_color">#C43D4B</color>
+    <string name="accuracy_title">Точность</string>
+    <string name="answer_hint">Введи ответ</string>
+    <string name="app_name">ЧислоБой</string>
+    <string name="check_button">ПРОВЕРКА</string>
+    <string name="correct_result">Правильно! Отличная работа</string>
+    <string name="correct_stat">Правильных: %1$d</string>
+    <string name="correct_stat_initial">Правильных: 0</string>
+    <string name="empty_answer_error">Введите ответ</string>
+    <string name="enter_answer_hint">Введи ответ и нажми «ПРОВЕРКА»</string>
+    <string name="example_placeholder">Нажми СТАРТ</string>
+    <string name="invalid_answer_error">Введите целое число</string>
+    <string formatted="false" name="percent_initial">0.00%</string>
+    <string name="press_start_hint">Начни тренировку</string>
+    <string name="start_button">СТАРТ</string>
+    <string name="statistics_title">Статистика</string>
+    <string name="subtitle">Решай примеры и улучшай результат</string>
+    <string name="wrong_result">Неверно. Правильный ответ: %1$d</string>
+    <string name="wrong_stat">Неправильных: %1$d</string>
+    <string name="wrong_stat_initial">Неправильных: 0</string>
+    <style name="Theme.MathPractice" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">@color/blue</item>
+        <item name="android:navigationBarColor">@color/background</item>
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

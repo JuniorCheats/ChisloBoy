@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "ru.study.mathpractice.app-debug-4:/drawable_example_correct.xml.flat",
+        "source": "ru.study.mathpractice.app-main-6:/drawable/example_correct.xml"
+    },
+    {
+        "merged": "ru.study.mathpractice.app-debug-4:/drawable_input_background.xml.flat",
+        "source": "ru.study.mathpractice.app-main-6:/drawable/input_background.xml"
+    },
+    {
+        "merged": "ru.study.mathpractice.app-debug-4:/drawable_example_default.xml.flat",
+        "source": "ru.study.mathpractice.app-main-6:/drawable/example_default.xml"
+    },
+    {
+        "merged": "ru.study.mathpractice.app-debug-4:/layout_activity_main.xml.flat",
+        "source": "ru.study.mathpractice.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Артем\\.gradle\\daemon\\8.9\\ru.study.mathpractice.app-debug-4:\\drawable_input_background.xml.flat",
+        "source": "C:\\Users\\Артем\\.gradle\\daemon\\8.9\\ru.study.mathpractice.app-main-6:\\drawable\\input_background.xml"
+    },
+    {
+        "merged": "ru.study.mathpractice.app-debug-4:/drawable_statistics_background.xml.flat",
+        "source": "ru.study.mathpractice.app-main-6:/drawable/statistics_background.xml"
+    },
+    {
+        "merged": "ru.study.mathpractice.app-debug-4:/drawable_example_wrong.xml.flat",
+        "source": "ru.study.mathpractice.app-main-6:/drawable/example_wrong.xml"
+    },
+    {
+        "merged": "C:\\Users\\Артем\\.gradle\\daemon\\8.9\\ru.study.mathpractice.app-debug-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Артем\\.gradle\\daemon\\8.9\\ru.study.mathpractice.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Артем\\.gradle\\daemon\\8.9\\ru.study.mathpractice.app-debug-4:\\drawable_ic_calculator.xml.flat",
+        "source": "C:\\Users\\Артем\\.gradle\\daemon\\8.9\\ru.study.mathpractice.app-main-6:\\drawable\\ic_calculator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Артем\\.gradle\\daemon\\8.9\\ru.study.mathpractice.app-debug-4:\\drawable_card_background.xml.flat",
+        "source": "C:\\Users\\Артем\\.gradle\\daemon\\8.9\\ru.study.mathpractice.app-main-6:\\drawable\\card_background.xml"
+    }
+]
